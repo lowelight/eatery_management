@@ -57,7 +57,7 @@ This project is brought to you by:
 [Haoxian Zhang]
 
 Contact
-For any questions or feedback, feel free to reach out to us. You can contact us at [z5356976@ad.unsw.edu.au].
+For any questions or feedback, feel free to reach out to us. You can contact us at [z5327309@ad.unsw.edu.au].
 
 License
 This project is licensed under the [License Name].
