@@ -1,0 +1,39 @@
+week1
+First I formed the group with my group members. 
+Then after discussion, we finally chose Eatery Management System as the project topic.
+According to the topic description, we identified 6 basic functions and discussed two novel functions. 
+Finally, our group also discussed some technologies required by the project, such as: Django, Python, Mysql and so on.
+
+week2
+With the help of the tutor, we successfully established and joined the github group.
+According to the 8 functions determined last week, conduct brainstorming and start writing User stories.
+
+week3
+According to the requirements of the project proposal, I and the members of the group are responsible for the second part: User stories and Sprints. 
+Finally completed his task in time.
+
+week4
+According to the requirements of sprint1 in jira, the team members directly assigned the front-end and back-end tasks, 
+and I mainly completed the API of Func2.
+
+week5
+According to the task assigned last week, the Func2 API was successfully completed and the test was completed in Postman.
+In addition, successfully demonstrated in the Lab course.
+
+week6
+Improve the tasks in the Sprint1 phase, and the team assigns their respective tasks according to Sprint2 in jira.
+I am mainly responsible for the Api of Func3 and Func4.
+
+week7
+Due to the modification of the database schema, the modification of Func2 is completed,
+and the API codes of Func3 and Func4 are started
+
+week8
+This week successfully completed the back-end task assigned by week6, and completed the API test in Postman, 
+and promptly fixed the bugs that appeared in the test. 
+
+week9
+Finished the Func8 API this week and started preparing to write the report.
+
+week10
+Complete the report overview section and prepare the Final demo.

@@ -1,0 +1,34 @@
+Week 1
+In the first week, me and other memebers formed a group, and after disscusion, we decided to pick eatery management system as our project topic.
+According to project description, we found out 6 basic functionalities, and came up with two nobel functionalities, and as a result, we have gained a clear understanding of how to effectively craft user stories.
+In addition, we also discussed some technical details about our project (Django, React.js, Python, MySQL, RESTful API/WebSocket). 
+
+Week2
+With the help of tutor, we finally formed a github group.
+Me and my teammates brainstromed users' stories according to the 8 functionalities we choosed. 
+We also assigned the work of writing proposal. My work is writing background and identifing some existed systems.
+
+Week3
+We finally choose EatCLub, First Table and OpenTable our objectives to compared with. All these platforms are eatery management systems. We analysis their UI design, functionalities and drawbacks.
+According to the comparison, we got some inspiration about how to design our own project.
+
+Week4
+Bulit database and started writing code of fun 2.
+
+Week5
+Kept implementing fun 2.
+
+Week6
+Modified database schema to meet new demand. Started writing code of function 5.
+
+Week7
+Kept implementing fun 5 and learned some code about React.
+
+Week8
+Implemented function 5 and wrote the relative front end React code.
+
+Week9
+Making connection between front end functions and back end functions
+
+Week10
+Fix bugs and writing report.

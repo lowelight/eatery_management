@@ -1,0 +1,44 @@
+Week 1
+During the initial week, my team members and I successfully teamed up.
+After discussion, we unanimously chose "Restaurant Management System" as the core topic of our project.
+Based on the project selection requirements, we identified six basic functions to be implemented from the seven basic functions 
+and discussed the feasibility of two innovative functions that would enhance our skills in building effective user stories.
+
+
+Week 2
+We wrote relevant user stories and added them to Jira based on the eight deliverables that needed to be achieved, 
+and discussed the internship approach and feasibility.
+
+Week 3
+This week we need to finish the proposal, I am in charge of the storyboards and flow diagram part, 
+through the discussion with other members, I finish my work.
+
+Week 4
+This week we all start the implementation of specific functions.
+I am responsible for the front-end code implementation, and discuss and design the web UI with my group members, 
+mainly implementing the Login and Signup pages.
+
+
+Week5
+This week I am mainly responsible for the front-end work, mainly to achieve the function 1-2 and UI homepage page design, 
+and the connection to the back-end API, because the work is more than I thought not completely time function2, 
+the follow-up I also need to rationalize the work.
+
+Week6
+This week I continued the work that I hadn't finished in week 5, 
+and after meeting with the back-end team and the UI design team, 
+ I optimized the registration page, such as the Restaurant address registration option.
+
+Week7
+This week I mainly completed the front-end implementation of the search page, 
+including the My Voucher button, the search bar, the filter option, the restaurant display, and the use of the Google API.
+
+Week8
+This week I mainly completed the front-end implementation of the search page, eateries' main page to help customer book vouchers, 
+and my voucher page to help eateries edit or delete their discount voucher, and the connection to the back-end API.
+
+Week9
+Optimized the website display by modifying the front-end rendering part of the code, solved the problem of Googlemaps displaying the geographic location of merchants, and optimized the display problem of the SEARCH function.
+
+Week10
+Optimized web page display issues, finished the functionalities section of the REPORT, and prepared the content for the PRESENTATION.

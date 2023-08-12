@@ -1,0 +1,43 @@
+Week 1
+This week our group made some important progress in the project start-up phase.
+First, we successfully created a project team and chose a name for the team. To better organize and manage the project, the team elected me as the Scrum Master.
+To better track progress and assignments, we introduced Jira, a project management tool, and created our own team site, which we believe will help improve the team's productivity and collaboration.
+After deciding which project to work on, the group members came together for an in-depth discussion. We finally decided on eight features to be implemented in the project. These included two novel features that would provide a better experience for users and increase the competitiveness of the product.
+In addition, to ensure the smooth running of the project, we identified the technology stack （Django, React.js, Python, MySQL, RESTful API/WebSocket） to be used on the front and back ends. Based on the needs of the project and the expertise of the team members, we selected the right combination of technologies to ensure the smooth development and implementation of the project.
+
+Week2
+Having trouble building a team on the Github Classroom, after searching for help from the tutor and head lecturer, we finally build the team. 
+Set all 8 functions and brainstormed user stories. 
+Write 3 sprints with the user stores on Jira.
+Starting the proposal. 
+
+Week3
+Successfully build a team on GitHub Classroom and created a group repo
+According to the proposal requirements, the three sections will be assigned to different team members. I will be responsible for the Flow Diagram and Architecture sections, and I will complete them and submit the proposal before Friday.
+Completed flow diagram by Figma
+Finished proposal
+
+Week4
+Generate database schema. Start to write back-end and front-end code.
+
+Week5
+This week, I completed the API code writing for function1 and tested the API by connecting it to MySQL using Postman. I also wrote the corresponding API documentation for the front-end team members. 
+Our team completed the frontend and backend code writing for sprint 1 and successfully established the connection. We conducted retrospective1 and demo1.
+
+Week7
+Over the past two weeks, I've completed the backend API design for Function 6, which includes APIs for both 'customer' and 'eatery' user types. Additionally, I've successfully implemented the frontend code for the customer profile display page and the components of the customer profile editing page, as well as their webpage rendering code. Most crucially, I've resolved the issues related to image file exchange and storage between the front end and the back end.
+
+Week 8
+This week, I integrated all the backend API codes for functions 1 to function 6 together, optimized and updated the database. I added some data for testing in the database schema. On the frontend side, I completed the functionality, page rendering, and page navigation setup for function 6, and tested it successfully. I also integrated all the current frontend codes. Also I have prepared the demo B.
+
+Week 9
+In week 9, we fixed some bugs in our app. 
+Trying to deploy the app on the docker container.
+Start to prepare ppt for final demo.
+Start to write the final report.
+Almost implement the function 8, which is leaderboard.
+
+Week 10
+Finished the User Manual part of the final report. Fixed all bugs figured by test. Finished all functionalities of the eatery management system.
+Optimized UI and functions by tuning both back-end and front-end code.
+

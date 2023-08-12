@@ -1,0 +1,44 @@
+Week 1
+Our group discussed this week during the project  phase.
+First: We created a project team, the name of the team is 9900F15APT5D. After voting by the group members, Niu Yue was elected as the Scrum Master.
+Second: According to the course rules and convenient tracking management, we registered the project management tool Jira,
+Third: According to the basic requirements of the proposal, we finally decided to display a total of eight functions in the project. Can provide users with a better experience.
+In addition, the technology stack (Django, React.js, Python, MySQL, RESTful API/WebSocket) to be used at the front and back ends has been determined.
+
+Week2
+Successfully formed a team in Github Classroom.
+All 8 features and user stories for brainstorming are provided. 1-2 features per person.
+Start our proposal.
+
+Week3
+According to the request of the proposal, I am responsible for the second part: User stories and Sprints. I will finish the task on Thursday to allow time to revise the proposal.
+
+week4
+Based on domeA's requirements, my main focus is on front-end and UI design work. 
+We are dedicated to designing and optimizing the login page, as well as making improvements to the pre-login pages. I am actively collaborating and coordinating with another member of the front-end team. Currently, we are continuously refining the design of the browsing page and homepage. 
+Although the work is not yet complete, we are making active progress.
+
+week5
+Realize the registration of users and businesses, login, personal information settings, 
+management and issuance of voucher pages, and home page settings. 
+After the demoA presentation was completed, a meeting and reflection were organized as soon as possible,
+and Retrospective A was written.
+
+week7
+Collaborating with team members to develop front-end code, 
+the goal is to implement functionality for the profile and complete the UI design for the project.
+This includes the review page, history page, rating page, and optimizing vouchers.
+
+week8
+This week, I completed the front-end page rendering for Function6. 
+I fulfilled the user stories for Function3 and Function5, and created and updated the UI designs for：
+Function3, Function4, Function5, and Function6. 
+Additionally, I wrote a comprehensive Retrospective B report.
+
+week9
+Prepare ppt for final demo. Start to write final report. Complete the UI design for leaderboard (function8)
+
+Week10
+Complete Final Demo's PPT.
+Completed the design and improvement of the final UI.
+Complete the third part of the report.
