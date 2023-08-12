@@ -1,6 +1,5 @@
-# 9900F15APT5D
-Eatery Management System
-Introduction
+# Eatery Management System
+### Introduction  
 This repository hosts the development work of the Eatery Management System, a project that is designed as part of our graduation requirements. The system is a comprehensive web application designed to streamline and digitize the operations of a typical eatery. This project covers a wide spectrum of technologies from the front end to the backend.
 
 Functionalities
